@@ -1,1 +1,1 @@
-worker: python openai_monitor.py
+web: python openai_monitor.py
